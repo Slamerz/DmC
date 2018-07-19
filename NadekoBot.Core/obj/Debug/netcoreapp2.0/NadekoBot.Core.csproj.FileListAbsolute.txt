@@ -1,6 +1,0 @@
-C:\Users\dreamsketcher\Documents\Visual Studio 2017\Projects\Evil Morty\NadekoBot.Core\bin\Debug\netcoreapp2.0\NadekoBot.Core.deps.json
-C:\Users\dreamsketcher\Documents\Visual Studio 2017\Projects\Evil Morty\NadekoBot.Core\bin\Debug\netcoreapp2.0\NadekoBot.Core.dll
-C:\Users\dreamsketcher\Documents\Visual Studio 2017\Projects\Evil Morty\NadekoBot.Core\obj\Debug\netcoreapp2.0\NadekoBot.Core.csprojResolveAssemblyReference.cache
-C:\Users\dreamsketcher\Documents\Visual Studio 2017\Projects\Evil Morty\NadekoBot.Core\obj\Debug\netcoreapp2.0\NadekoBot.Core.csproj.CoreCompileInputs.cache
-C:\Users\dreamsketcher\Documents\Visual Studio 2017\Projects\Evil Morty\NadekoBot.Core\obj\Debug\netcoreapp2.0\NadekoBot.Core.AssemblyInfoInputs.cache
-C:\Users\dreamsketcher\Documents\Visual Studio 2017\Projects\Evil Morty\NadekoBot.Core\obj\Debug\netcoreapp2.0\NadekoBot.Core.AssemblyInfo.cs

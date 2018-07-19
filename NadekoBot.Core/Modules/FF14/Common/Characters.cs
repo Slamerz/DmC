@@ -64,7 +64,7 @@ namespace EvilMortyBot.Modules.FF14.Common
         public string Server { get; set; }
 
         [JsonProperty("title")]
-        public object Title { get; set; }
+        public Title Title { get; set; }
 
         [JsonProperty("avatar")]
         public string Avatar { get; set; }
