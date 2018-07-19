@@ -1,0 +1,8 @@
+
+src/NadekoBot/credentials\.json
+
+src/NadekoBot/credentials_example\.json
+
+NadekoBot\.Core/bin/
+
+docs/

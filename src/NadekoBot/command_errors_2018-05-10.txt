@@ -1,0 +1,27 @@
+[05:13-2018-05-10]
+System.ArgumentException: Url must be a well-formed URI
+Parameter name: Url
+   at Discord.EmbedAuthorBuilder.set_Url(String value)
+   at Discord.EmbedAuthorBuilder.WithUrl(String url)
+   at EvilMortyBot.Modules.Utility.Utility.Spoilers.<Spoiler>b__3_0(EmbedAuthorBuilder eab) in C:\Users\dreamsketcher\Documents\Visual Studio 2017\Projects\Evil Morty\NadekoBot.Core\Modules\Utility\Spoilers.cs:line 111
+   at Discord.EmbedBuilder.WithAuthor(Action`1 action)
+   at EvilMortyBot.Modules.Utility.Utility.Spoilers.<Spoiler>d__3.MoveNext() in C:\Users\dreamsketcher\Documents\Visual Studio 2017\Projects\Evil Morty\NadekoBot.Core\Modules\Utility\Spoilers.cs:line 110
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Discord.Commands.ModuleClassBuilder.<>c__DisplayClass6_0.<<BuildCommand>g__ExecuteCallback|0>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Discord.Commands.CommandInfo.<ExecuteAsyncInternalAsync>d__42.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at Discord.Commands.CommandInfo.<ExecuteAsyncInternalAsync>d__42.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at Discord.Commands.CommandInfo.<ExecuteAsyncInternalAsync>d__42.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Discord.Commands.CommandInfo.<ExecuteAsync>d__41.MoveNext()
+------
